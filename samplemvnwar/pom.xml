@@ -32,7 +32,7 @@
                                 <server>tomcat8_vy</server>
                                 <username>arpan</username>
                                 <password>test@123</password>
-                                <path>/hello</path>
+                                <path>/helloDevops</path>
                         </configuration>
                 </plugin>
    </plugins>
